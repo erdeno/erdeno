@@ -15,7 +15,7 @@ I'm using HTML, CSS and Python, React for web development. Pandas for data analy
 
 ![CS50’s Web Programming with Python and JavaScript](CS50W.png)
 
-![Python for Everybody](Python for everybody.png)
+![Python for Everybody](Python_for_Everybody.png)
 
 ![Introduction to Data Science.png](Introduction_to_Data_Science.png)
 
