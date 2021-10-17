@@ -3,7 +3,6 @@
 I love creating things and meeting new people.
 
 I'm a creative thinker, Python ethusiast, traveller and amateur photographer. 
-I'm doing my master on Data Science field.
 I'm Seeking to be inspired, to envision the unlikely, to work hard for things that are worth it, and to be surrounded by those who bring out the best in me.
 
 I like playing with data. 
