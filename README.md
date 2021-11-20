@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Python, Data analysis**
 
-- 📫 How to reach me **erden.ouz@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
