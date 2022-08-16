@@ -8,6 +8,11 @@
 - 💬 Ask me about **Python, Data analysis**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/oguzerden/">
+  <img align="left" alt="Oğuz's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
 <p align="left">
 </p>
 
