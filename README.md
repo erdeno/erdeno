@@ -2,6 +2,7 @@
 <h3 align="center">Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdeno&label=Profile%20views&color=0e75b6&style=flat" alt="erdeno" /> </p>
+ <script src="https://tryhackme.com/badge/1107191"></script>
 
 - 🌱 I’m currently learning **Cyber Security**
 
