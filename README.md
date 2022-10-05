@@ -3,8 +3,6 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdeno&label=Profile%20views&color=0e75b6&style=flat" alt="erdeno" /> </p> -->
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/chelebi.png" alt="TryHackMe" a="tryhackme.com/p/chelebi">
-
 - 🌱 I’m currently learning **Cyber Security**
 
 - 💬 Ask me about **Python, Data analysis**
