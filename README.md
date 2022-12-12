@@ -2,18 +2,10 @@
 <h3 align="center">Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdeno&label=Profile%20views&color=0e75b6&style=flat" alt="erdeno" /> </p>
- <img src="https://tryhackme-badges.s3.amazonaws.com/chelebi.png" alt="TryHackMe">
 
 - 🌱 I’m currently learning **Cyber Security**
 
 - 💬 Ask me about **Python, Data analysis**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/oguzerden/">
-  <img align="left" alt="Oğuz's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-</p>
 
 <br/>
 
