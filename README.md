@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdeno&label=Profile%20views&color=0e75b6&style=flat" alt="erdeno" /> </p>
 
-- 🌱 I’m currently learning **Cyber Security**
-
 - 💬 Ask me about **Python, Data analysis**
 
 <br/>
